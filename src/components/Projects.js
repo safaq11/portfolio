@@ -19,7 +19,7 @@ const Projects = () => {
             <p>
               A wearable device for kids that sends SOS alerts, tracks vitals, and notifies parents when the child is hurt.
             </p>
-            <a href="#" className="btn-project" target="_blank" rel="noreferrer">
+            <a href="https://github.com/safaq11" className="btn-project" target="_blank" rel="noreferrer">
               View Project
             </a>
           </div>
@@ -27,16 +27,16 @@ const Projects = () => {
           {/* Sample Project */}
           <div className="project-card">
             <img
-              src="https://images.pexels.com/photos/1108099/pexels-photo-1108099.jpeg"
+              src="https://images.pexels.com/photos/34866269/pexels-photo-34866269.jpeg"
               alt="Sample Project"
               style={{ width: '200px', height: '200px' }}
               className="project-img"
             />
-            <h3>Pet Project</h3>
+            <h3>Pet website</h3>
             <p>
-              A responsive Pet website using HTML and CSS to showcase skills and projects.
+              A pet website using HTML and CSS to showcase skills and projects.
             </p>
-            <a href="#" className="btn-project" target="_blank" rel="noreferrer">
+            <a href="https://github.com/safaq11/portfolio" className="btn-project" target="_blank" rel="noreferrer">
               View Project
             </a>
           </div>

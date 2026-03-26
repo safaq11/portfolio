@@ -6,7 +6,7 @@ const MyNavbar = () => {
   return (
     <Navbar expand="lg" fixed="top" className="navbar-custom">
       <Container>
-        <Navbar.Brand href="#home" className="brand">Safaq Jamal</Navbar.Brand>
+        <Navbar.Brand href="#home" className="brand">Safaq jamal</Navbar.Brand>
         <Navbar.Toggle aria-controls="navbarScroll" />
         <Navbar.Collapse id="navbarScroll">
           <Nav className="ms-auto">

@@ -8,11 +8,15 @@ function Hero() {
     <div className="hero-section" id="home">
       <div className="hero-content">
         <div className="hero-text">
-          <h1>Hi, I'm <span className="highlight">Safaq Jamal</span></h1>
+          <h1>Hi, I'm <span className="highlight">Safaq jamal</span></h1>
           <p>A creative frontend developer passionate about building clean & user-friendly websites.</p>
           <div className="hero-buttons">
+            <a href="#Projects">
             <Button variant="warning">View My Work</Button>
+            </a>
+            <a href="#contact">
             <Button variant="outline-light">Contact Me</Button>
+            </a>
           </div>
         </div>
         <img src={profile} alt="Profile" className="hero-img" />
